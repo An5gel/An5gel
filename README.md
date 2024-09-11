@@ -1,16 +1,37 @@
-## Hi there 👋
+ Hi there, I'm Angel! 👋
 
-<!--
-**An5gel/An5gel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Image]
 
-Here are some ideas to get you started:
+ About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer with experience in Javascript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **Next.js, Tech Management**
+- 🔭 Working on: **Developing projects**
+- 🌍 Languages: **HTML, JavaScript, CSS**
+- 📫 How to reach me: **angelumwiza21@gmail.com**
+- ⚡ Fun fact: **Soon finding out**
+
+## My Skills 🧠
+
+Javascript
+Product management
+HTML
+CSS
+Scrum and agile
+Database Management
+React
+Node.js
+Microsft Powerbi
+Leadership and Communication
+Git
+CI/CD Pipelines
+
+
+ ## Get in Touch 📬
+
+Personal Website : angelumwiza.vercel.app
+LinkedIn : www.linkedin.com/in/angel-umwiza-27b137277
+
+
+
